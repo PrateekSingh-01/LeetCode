@@ -6,19 +6,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Prefix Sum
 |  |
@@ -28,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 ## Sorting
 |  |
