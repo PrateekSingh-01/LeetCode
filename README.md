@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0039-combination-sum) |
+| [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Sliding Window
