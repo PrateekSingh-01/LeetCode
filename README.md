@@ -80,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 ## Union-Find
 |  |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+## Graph Theory
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
