@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh-01/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Design
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh-01/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Simulation
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
