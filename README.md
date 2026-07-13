@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -144,10 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Graph Theory
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
+| [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
