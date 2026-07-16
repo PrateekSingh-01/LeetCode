@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1089-duplicate-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/1089-duplicate-zeros) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
+## Math
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
