@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
