@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
