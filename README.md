@@ -218,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/PrateekSingh-01/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
