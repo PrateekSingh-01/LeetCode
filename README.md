@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3536-maximum-product-of-two-digits](https://github.com/PrateekSingh-01/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/PrateekSingh-01/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
