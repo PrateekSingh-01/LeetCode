@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrateekSingh-01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Tree
 |  |
 | ------- |
