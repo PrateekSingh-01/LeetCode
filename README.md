@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PrateekSingh-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrateekSingh-01/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/PrateekSingh-01/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/PrateekSingh-01/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -295,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/PrateekSingh-01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
