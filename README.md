@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/PrateekSingh-01/LeetCode/tree/master/0726-number-of-atoms) |
@@ -236,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1089-duplicate-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/PrateekSingh-01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrateekSingh-01/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
