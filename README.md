@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1089-duplicate-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/PrateekSingh-01/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0086-partition-list) |
 | [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
