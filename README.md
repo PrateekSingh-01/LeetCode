@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/PrateekSingh-01/LeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/PrateekSingh-01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PrateekSingh-01/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/PrateekSingh-01/LeetCode/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0767-reorganize-string) |
