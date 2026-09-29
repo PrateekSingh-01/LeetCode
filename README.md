@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/PrateekSingh-01/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [1669-merge-in-between-linked-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/PrateekSingh-01/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search Tree
