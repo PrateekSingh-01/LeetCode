@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3903-smallest-stable-index-i) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/PrateekSingh-01/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrateekSingh-01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/PrateekSingh-01/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/PrateekSingh-01/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/PrateekSingh-01/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Stack
 |  |
 | ------- |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/PrateekSingh-01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrateekSingh-01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/PrateekSingh-01/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Euclidean Algorithm
 |  |
 | ------- |
