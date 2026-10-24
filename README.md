@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekSingh-01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekSingh-01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0099-recover-binary-search-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Math
