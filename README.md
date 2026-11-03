@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrateekSingh-01/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrateekSingh-01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/PrateekSingh-01/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/PrateekSingh-01/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrateekSingh-01/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/PrateekSingh-01/LeetCode/tree/master/3870-count-commas-in-range) |
