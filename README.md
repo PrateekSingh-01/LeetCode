@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -187,10 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekSingh-01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
