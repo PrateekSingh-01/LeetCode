@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PrateekSingh-01/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PrateekSingh-01/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh-01/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PrateekSingh-01/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PrateekSingh-01/LeetCode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PrateekSingh-01/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
 |  |
 | ------- |
