@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0897-increasing-order-search-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/PrateekSingh-01/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
@@ -412,4 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
