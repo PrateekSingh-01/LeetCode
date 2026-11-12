@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrateekSingh-01/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3833-count-dominant-indices](https://github.com/PrateekSingh-01/LeetCode/tree/master/3833-count-dominant-indices) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3903-smallest-stable-index-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/PrateekSingh-01/LeetCode/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrateekSingh-01/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3833-count-dominant-indices](https://github.com/PrateekSingh-01/LeetCode/tree/master/3833-count-dominant-indices) |
 ## Doubly-Linked List
 |  |
 | ------- |
