@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/PrateekSingh-01/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/PrateekSingh-01/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
+| [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1424-diagonal-traverse-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/1424-diagonal-traverse-ii) |
+| [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1642-furthest-building-you-can-reach](https://github.com/PrateekSingh-01/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 ## Simulation
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh-01/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
@@ -436,8 +439,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
