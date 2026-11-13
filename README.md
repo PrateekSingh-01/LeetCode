@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/PrateekSingh-01/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0684-redundant-connection](https://github.com/PrateekSingh-01/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/PrateekSingh-01/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/PrateekSingh-01/LeetCode/tree/master/0559-maximum-depth-of-n-ary-tree) |
+| [0684-redundant-connection](https://github.com/PrateekSingh-01/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PrateekSingh-01/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/PrateekSingh-01/LeetCode/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PrateekSingh-01/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0310-minimum-height-trees](https://github.com/PrateekSingh-01/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/PrateekSingh-01/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/PrateekSingh-01/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/PrateekSingh-01/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/PrateekSingh-01/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1514-path-with-maximum-probability](https://github.com/PrateekSingh-01/LeetCode/tree/master/1514-path-with-maximum-probability) |
