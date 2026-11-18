@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/PrateekSingh-01/LeetCode/tree/master/2409-count-days-spent-together) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/PrateekSingh-01/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4036-lexicographically-largest-string-after-pair-transformations](https://github.com/PrateekSingh-01/LeetCode/tree/master/4036-lexicographically-largest-string-after-pair-transformations) |
 ## Stack
