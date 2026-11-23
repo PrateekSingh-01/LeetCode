@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrateekSingh-01/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/PrateekSingh-01/LeetCode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/PrateekSingh-01/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/PrateekSingh-01/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0091-decode-ways](https://github.com/PrateekSingh-01/LeetCode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/PrateekSingh-01/LeetCode/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0337-house-robber-iii) |
