@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrateekSingh-01/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrateekSingh-01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/PrateekSingh-01/LeetCode/tree/master/0234-palindrome-linked-list) |
