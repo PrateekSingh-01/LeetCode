@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/PrateekSingh-01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrateekSingh-01/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/PrateekSingh-01/LeetCode/tree/master/0383-ransom-note) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/PrateekSingh-01/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Depth-First Search
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PrateekSingh-01/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/PrateekSingh-01/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/PrateekSingh-01/LeetCode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/PrateekSingh-01/LeetCode/tree/master/0151-reverse-words-in-a-string) |
