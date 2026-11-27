@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/PrateekSingh-01/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1089-duplicate-zeros](https://github.com/PrateekSingh-01/LeetCode/tree/master/1089-duplicate-zeros) |
 | [1094-car-pooling](https://github.com/PrateekSingh-01/LeetCode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh-01/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/PrateekSingh-01/LeetCode/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/PrateekSingh-01/LeetCode/tree/master/0778-swim-in-rising-water) |
+| [0931-minimum-falling-path-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PrateekSingh-01/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PrateekSingh-01/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Divide and Conquer
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PrateekSingh-01/LeetCode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/PrateekSingh-01/LeetCode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrateekSingh-01/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/PrateekSingh-01/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Bit Manipulation
 |  |
